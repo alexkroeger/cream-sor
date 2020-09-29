@@ -1,5 +1,5 @@
 {
-    "name": "@balancer-labs/sor",
+    "name": "cream-sor",
     "version": "0.3.3",
     "license": "GPL-3.0-only",
     "main": "dist/index.js",
